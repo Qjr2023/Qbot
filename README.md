@@ -1,3 +1,14 @@
+## ⚠️ Fork Notice
+
+This is a personal fork of the original project [Qbot](https://github.com/UFund-Me/Qbot.git) for learning and experimental purposes.  
+Some parts have been modified or removed based on my own needs.
+
+All credits go to the original authors. This fork is still under the same CC BY-NC-SA 4.0 license.
+
+---
+
+Below is the original README content from the upstream repository, kept for reference.
+
 <div>
   <div align="right">
     👆 右上角点击 <img class="ai-header-badge-img" src="https://img.shields.io/github/stars/UFund-Me/Qbot.svg?style=social&label=Star"> 告诉我，你希望这个项目继续加速开发迭代 ❤️ & ☕️
