@@ -114,6 +114,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+qbot-env/
+
 
 # Spyder project settings
 .spyderproject
